@@ -1,4 +1,4 @@
-##2D Vector graphics editor
+## 2D Vector graphics editor
 
 ### Instructions
 
